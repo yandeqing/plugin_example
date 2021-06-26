@@ -1,0 +1,4 @@
+rootProject.name = 'plugin_example'
+include 'app'
+include 'pluginlibrary'
+
